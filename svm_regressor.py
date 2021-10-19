@@ -7,7 +7,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # data
-df = pd.read_csv('../DATA/cement_slump.csv')
+df = pd.read_csv('cement_slump.csv')
 
 df.head()
 
